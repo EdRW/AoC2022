@@ -1,6 +1,6 @@
 # AoC2022
 
-Run with the deno runtime
+Run with Python 3.10+
 
 ```sh
 cd day_XX
