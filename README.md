@@ -4,5 +4,5 @@ Run with the deno runtime
 
 ```sh
 cd day_XX
-deno run index.ts
+python main.py input.txt
 ```
